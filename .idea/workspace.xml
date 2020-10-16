@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f1d94d6-e4e3-4ba3-91c3-55ddff1268b4" name="Default Changelist" comment="" />
+    <list default="true" id="2f1d94d6-e4e3-4ba3-91c3-55ddff1268b4" name="Default Changelist" comment="add .gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +44,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="dz_131.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,6 +73,48 @@
       <option name="presentableId" value="Default" />
       <updated>1602859142205</updated>
     </task>
+    <task id="LOCAL-00001" summary="add .gitignore">
+      <created>1602859910743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602859910743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="857" y="453" width="277" height="207" key="Github.ShareDialog" timestamp="1602859773795">
+      <screen x="72" y="21" width="1848" height="1059" />
+    </state>
+    <state x="857" y="453" width="277" height="207" key="Github.ShareDialog/72.21.1848.1059@72.21.1848.1059" timestamp="1602859773795" />
+    <state x="764" y="230" width="453" height="652" key="Github.UntrackedFilesDialog" timestamp="1602859784205">
+      <screen x="72" y="21" width="1848" height="1059" />
+    </state>
+    <state x="764" y="230" width="453" height="652" key="Github.UntrackedFilesDialog/72.21.1848.1059@72.21.1848.1059" timestamp="1602859784205" />
+    <state width="1354" height="258" key="GridCell.Tab.0.bottom" timestamp="1602874365014">
+      <screen x="72" y="21" width="1848" height="1059" />
+    </state>
+    <state width="1354" height="258" key="GridCell.Tab.0.bottom/72.21.1848.1059@72.21.1848.1059" timestamp="1602874365014" />
+    <state width="1354" height="258" key="GridCell.Tab.0.center" timestamp="1602874365014">
+      <screen x="72" y="21" width="1848" height="1059" />
+    </state>
+    <state width="1354" height="258" key="GridCell.Tab.0.center/72.21.1848.1059@72.21.1848.1059" timestamp="1602874365014" />
+    <state width="1354" height="258" key="GridCell.Tab.0.left" timestamp="1602874365014">
+      <screen x="72" y="21" width="1848" height="1059" />
+    </state>
+    <state width="1354" height="258" key="GridCell.Tab.0.left/72.21.1848.1059@72.21.1848.1059" timestamp="1602874365014" />
+    <state width="1354" height="258" key="GridCell.Tab.0.right" timestamp="1602874365014">
+      <screen x="72" y="21" width="1848" height="1059" />
+    </state>
+    <state width="1354" height="258" key="GridCell.Tab.0.right/72.21.1848.1059@72.21.1848.1059" timestamp="1602874365014" />
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602859912799">
+      <screen x="72" y="21" width="1848" height="1059" />
+    </state>
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.21.1848.1059@72.21.1848.1059" timestamp="1602859912799" />
   </component>
 </project>
